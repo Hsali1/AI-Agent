@@ -17,7 +17,7 @@ The goal of this project was to better understand:
 
 ## Demo
 
-<div style="position: relative; padding-bottom: 66.66666666666666%; height: 0;"><iframe src="https://www.loom.com/embed/88ae92572e1741d2876e125c34dcc70b" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+[![Watch the demo](https://cdn.loom.com/sessions/thumbnails/88ae92572e1741d2876e125c34dcc70b-with-play-button.jpg)](https://www.loom.com/share/88ae92572e1741d2876e125c34dcc70b)
 
 ---
 
