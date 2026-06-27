@@ -17,7 +17,14 @@ The goal of this project was to better understand:
 
 ## Demo
 
-[![Watch the demo](https://cdn.loom.com/sessions/thumbnails/88ae92572e1741d2876e125c34dcc70b-with-play-button.jpg)](https://www.loom.com/share/88ae92572e1741d2876e125c34dcc70b)
+<div>
+   <a href="https://www.loom.com/share/88ae92572e1741d2876e125c34dcc70b">
+     <p>Building a Python AI Agent Sandbox - Watch Video</p>
+   </a>
+   <a href="https://www.loom.com/share/88ae92572e1741d2876e125c34dcc70b">
+     <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/88ae92572e1741d2876e125c34dcc70b-2dd9939324c0b51a-full-play.gif#t=0.1">
+   </a>
+ </div>
 
 ---
 
